@@ -462,7 +462,7 @@
         ["xpath=//div[@id='factorial-calc']/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//div[2]/form/div[2]/div/input", "xpath:position"]
       ],
-      "value": "120"
+      "value": "1200"
     }, {
       "id": "f46a7ec5-a36e-48bb-954c-baa2460a3b0b",
       "comment": "",
