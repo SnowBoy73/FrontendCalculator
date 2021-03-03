@@ -1,5 +1,8 @@
 pipeline{
     agent any
+     triggers{
+              pollSCM("H/5 * * * *")
+         } //poll every 5 min
     stages {
         stage("Deliver to Docker Hub") {
             steps {
